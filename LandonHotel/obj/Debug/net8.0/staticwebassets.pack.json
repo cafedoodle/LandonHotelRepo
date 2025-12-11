@@ -1,0 +1,281 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\attractions.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\attractions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\dining_lattes.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\dining_lattes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\dining_rooftop.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\dining_rooftop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\dining_smoothiebar.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\dining_smoothiebar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\events_conference.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\events_conference.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\events_wedding.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\events_wedding.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\intro_attractions.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\intro_attractions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\intro_dining.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\intro_dining.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\intro_pool.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\intro_pool.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\intro_room.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\intro_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\intro_wedding.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\intro_wedding.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\rooms_cambridge.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\rooms_cambridge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\rooms_manchester.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\rooms_manchester.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\rooms_oxford.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\rooms_oxford.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\rooms_piccadilly.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\rooms_piccadilly.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\rooms_victoria.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\rooms_victoria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\rooms_westminster.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\rooms_westminster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\hotel\\splash_hotelphoto.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel\\splash_hotelphoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\icons\\attractions.png",
+      "PackagePath": "staticwebassets\\images\\icons\\attractions.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\icons\\dining.png",
+      "PackagePath": "staticwebassets\\images\\icons\\dining.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\icons\\events.png",
+      "PackagePath": "staticwebassets\\images\\icons\\events.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\icons\\info.png",
+      "PackagePath": "staticwebassets\\images\\icons\\info.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\icons\\rooms.png",
+      "PackagePath": "staticwebassets\\images\\icons\\rooms.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\misc\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\misc\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\misc\\greenplanet.png",
+      "PackagePath": "staticwebassets\\images\\misc\\greenplanet.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\socialmedia\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\socialmedia\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\socialmedia\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\socialmedia\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\images\\socialmedia\\youtube.png",
+      "PackagePath": "staticwebassets\\images\\socialmedia\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bookl\\Downloads\\Lynda\\Template\\GitHub\\TDD\\LandonHotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LandonHotel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LandonHotel.props",
+      "PackagePath": "build\\LandonHotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LandonHotel.props",
+      "PackagePath": "buildMultiTargeting\\LandonHotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LandonHotel.props",
+      "PackagePath": "buildTransitive\\LandonHotel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
